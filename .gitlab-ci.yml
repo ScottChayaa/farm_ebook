@@ -1,4 +1,5 @@
 pages:
+  script:
   artifacts:
     expire_in: 1 day
     paths:
