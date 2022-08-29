@@ -145,14 +145,14 @@ body{
 
 .magazine-viewport .next-button,
 .magazine-viewport .previous-button{
-	width:22px;
-	height:600px;
+	width:35px;
+	height:800px;
 	position:absolute;
 	top:0;
 }
 
 .magazine-viewport .next-button{
-	right:-22px;
+	right:-35px;
 	-webkit-border-radius:0 15px 15px 0;
 	-moz-border-radius:0 15px 15px 0;
 	-ms-border-radius:0 15px 15px 0;
@@ -161,7 +161,7 @@ body{
 }
 
 .magazine-viewport .previous-button{
-	left:-22px;
+	left:-35px;
 	-webkit-border-radius:15px 0 0 15px;
 	-moz-border-radius:15px 0 0 15px;
 	-ms-border-radius:15px 0 0 15px;
@@ -177,7 +177,7 @@ body{
 .magazine-viewport .previous-button-hover,
 .magazine-viewport .previous-button-down{
 	background-image:url(../pics/arrows.png);
-	background-position:-4px 284px;
+	background-position:2px 384px;
 	background-repeat:no-repeat;
 }
 
@@ -189,7 +189,7 @@ body{
 .magazine-viewport .next-button-hover,
 .magazine-viewport .next-button-down{
 	background-image:url(../pics/arrows.png);
-	background-position:-38px 284px;
+	background-position:-32px 384px;
 	background-repeat:no-repeat;
 }
 
